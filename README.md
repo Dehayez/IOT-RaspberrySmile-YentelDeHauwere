@@ -1,6 +1,9 @@
 # Smile Detector with Sense HAT
 A simple face and smile detector for Raspberry Pi and Sense HAT.
 
+## Video link
+https://vimeo.com/yenteldehauwere
+
 ## Requirements
 
 - Raspberry Pi
